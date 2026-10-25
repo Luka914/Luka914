@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! I'm Luka 👋
 
+**Computer Science Undergraduate @ Durham University**
 <!--
 **Luka914/Luka914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
