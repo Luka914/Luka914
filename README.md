@@ -6,7 +6,7 @@ I'm interested in Software Engineering, Artificial Intelligence, and Data Scienc
 
 ---
 
-🚀 Projects
+## Projects
 
 🤖 [Machine Learning Model](https://github.com/Luka914/aiproject)
 
