@@ -4,7 +4,7 @@ Computer Science Undergraduate @ Durham University
 
 I'm interested in Software Engineering, Artificial Intelligence, and Data Science. I enjoy understanding how technology works, exploring new ideas and finding interesting ways to solve problems with code.
 
----
+
 
 ## Projects
 
