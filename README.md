@@ -13,7 +13,7 @@ I'm interested in Software Engineering, Artificial Intelligence, and Data Scienc
 Building a machine learning model to predict bike rental demand using weather and time data.
 
 
-🔌 [API Project](https://github.com/Luka914/API-project)
+🔌 [Study Spot API Project]([https://github.com/Luka914/API-project](https://github.com/Luka914/studyspot-api))
 
 Exploring how applications communicate and exchange data through APIs.
 
